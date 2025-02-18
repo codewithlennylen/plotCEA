@@ -1,7 +1,12 @@
 # plotCAE
 
+```
+$ python plotCAE.py <Your CEA output text file>
+```
 
-$ python plotCAE.py 
+![](image/output.png)
+
+
 
 
 
